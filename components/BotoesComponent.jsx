@@ -28,7 +28,7 @@ export default function Botoes() {
             </div>
 
 
-            <div className='w-full flex space-x-1 flex flex-col flex items-center'>
+            <div className='w-full  space-x-1  flex-col flex items-center'>
                 <div className='flex  flex-col items-center bg-slate-500 w-40 p-4'>
 
                     <div>
